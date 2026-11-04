@@ -1,0 +1,9 @@
+Notion MCP Server
+Copyright 2026 MSPbots.ai
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+"Notion" is a trademark of its respective owner. This project is an
+independent integration that calls the documented Notion API; it contains
+no Notion source code and is not affiliated with or endorsed by the owner
+of Notion.
